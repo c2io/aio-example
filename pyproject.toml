@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "aio-example"
+version = "0.1.0"
+description = ""
+authors = ["chazzhuang <chazzhuang@tecent.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+typer = "^0.3.2"
+loguru = "^0.5.3"
+aiohttp = "^3.7.4"
+aiofiles = "^0.7.0"
+requests = "^2.25.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.4"
+black = "^21.6b0"
+flake8 = "^3.9.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

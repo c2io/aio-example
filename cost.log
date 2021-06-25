@@ -1,0 +1,10 @@
+2021-06-25 08:51:09.178 | INFO     | __main__:adownload:19 - count=1,end_time-start_time=5.521130323410034
+2021-06-25 08:51:24.170 | INFO     | __main__:adownload:19 - count=2,end_time-start_time=5.478341102600098
+2021-06-25 08:51:31.225 | INFO     | __main__:adownload:19 - count=3,end_time-start_time=5.179026365280151
+2021-06-25 08:51:39.202 | INFO     | __main__:adownload:19 - count=4,end_time-start_time=4.856461763381958
+2021-06-25 08:51:47.016 | INFO     | __main__:adownload:19 - count=5,end_time-start_time=4.878647089004517
+2021-06-25 08:51:55.437 | INFO     | __main__:adownload:19 - count=7,end_time-start_time=5.090546607971191
+2021-06-25 08:52:06.697 | INFO     | __main__:adownload:19 - count=8,end_time-start_time=8.848278999328613
+2021-06-25 08:52:43.254 | INFO     | __main__:adownload:19 - count=9,end_time-start_time=27.238453149795532
+2021-06-25 08:53:28.161 | INFO     | __main__:download:39 - count=1,end_time-start_time=4.965648651123047
+2021-06-25 08:53:46.604 | INFO     | __main__:adownload:19 - count=1,end_time-start_time=5.4573094844818115
